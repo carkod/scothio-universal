@@ -20,7 +20,8 @@
   "scripts": {
     "watch": "webpack -d --watch",
     "build": "webpack",
-    "serve": "serve public"
+    "serve": "serve public",
+    "start": "nodemon"
   },
   "author": "",
   "license": "ISC"
